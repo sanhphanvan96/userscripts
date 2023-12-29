@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        QuitDontAsk - music.youtube.com
 // @namespace   Violentmonkey Scripts
-// @match       https://music.youtube.com/
+// @match       https://music.youtube.com/*
 // @grant       none
 // @version     1.0
 // @author      sphan
