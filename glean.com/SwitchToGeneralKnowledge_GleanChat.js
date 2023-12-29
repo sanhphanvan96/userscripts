@@ -4,7 +4,7 @@
 // @match       https://app.glean.com/chat
 // @grant       none
 // @version     1.0
-// @author      -
+// @author      sphan
 // @description Switch to the "General Knowledge" section on the Glean chat application
 // ==/UserScript==
 
